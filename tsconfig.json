@@ -3,8 +3,9 @@
     "noImplicitAny": false,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "outDir": "./build",  
     "target": "es6",
-    "module": "commonjs",
+    "module": "CommonJS",
     "esModuleInterop": true,
     "moduleResolution": "node",
   }
